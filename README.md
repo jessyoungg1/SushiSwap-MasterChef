@@ -1,7 +1,7 @@
 # Hardhat Template
 This is a SushiSwap MasterChef Test.
 
-It tests the use of the contracts fucntions.
+It tests the use of the contracts functions.
 
 ## Getting started
 Clone the repo into your project directory:
