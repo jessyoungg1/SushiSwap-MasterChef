@@ -1,4 +1,4 @@
-# Hardhat Template
+# SushiSwap MasterChef Test
 This is a SushiSwap MasterChef Test.
 
 It tests the use of the contracts functions.
